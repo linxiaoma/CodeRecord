@@ -40,3 +40,25 @@ Let's take a look at the top electric vehicle carmakers by market share in 2021.
 
 caveat [ˈkæviæt] n. <正式>警告，限制性条款；<法律>预告登记
 
+### 2022.02.24
+
+register-transfer level(RTL) design
+
+You may also notice their enthusiasm and passion for their jobs.
+
+trauma n. 痛苦经历，挫折；精神创伤，心理创伤；
+
+rehabilitation n. 康复，复原；(权利、名誉的)恢复；修复，翻新
+
+wean vt. 使断奶；使断念；使放弃
+
+She was weaned from the ventilator. Believe it or not,
+
+debilitating diseases 衰竭性疾病 such as multiple sclerosis(多发性硬化)
+
+One thing that seems clear is that new devices will continue to be invented for the foreseeable future.
+
+digital systems in the world around us
+
+household appliance
+
