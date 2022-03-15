@@ -62,3 +62,31 @@ digital systems in the world around us
 
 household appliance
 
+### 2022.03.03
+
+in one way or another
+
+drastic 极端的，激烈的
+
+### 2022.03.15
+
+serves as the springboard for expanding learners' abilities in speaking, listening, reading, and writing.
+
+country color animal insect dictionary ant bee cow horse sport language tennis Chicago
+
+China Chinese Spain(Spanish) Germany(German) France(French) Russian(俄语) Russia(俄罗斯) 
+
+Arabic Egypt Indonesia Spring Summer Autumn Winter
+
+work in small groups, choose a leader, only the leader's book is open.
+
+**Game**: Work in small groups, close your books for this activity. Your teacher will say the beginning of a sentence. As a group, write the complete sentence. In the end, the group who completes the most sentences correctly wins the game.
+
+Your turn now. Pronouns refer to nouns.
+
+Adjectives often follow a form of be. Adjectives describe or give information about a noun or adjective that comes at the beginning of a sentence.
+
+Practice using prepositions of place
+
+
+
