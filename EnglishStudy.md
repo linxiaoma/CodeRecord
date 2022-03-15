@@ -124,5 +124,29 @@ We will obtain the celebrated Bernoulli equation and apply it to various flows. 
 
 inviscid fluid. In practice there are no inviscid fluids. For many flow situations the viscous effects are relatively small compared with other effects. 
 
-for the present case
+for the present case		in other words		on the other hand
+
+for simplicity		for various gate voltages 		for the sake of brevity
+
+in the diagram	in parallel		in series		in reality		in particular
+
+falls in the range of ...
+
+note that		at the same potential
+
+It is interesting to recognize that ...
+
+Each view provides valuable insight into the operation of the transistor
+
+The ID-VD and ID-VGS characteristics play a central role in our understanding of MOS devices.
+
+How does the gate width impact the I-V characteristics?
+
+We may then surmise that W must be maximized,
+
+From these observations, we conclude that, if the drain voltage is high enough to produce ..
+
+with the foregoing qualitative study, 
+
+preface to the fourth edition
 
