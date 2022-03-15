@@ -88,5 +88,41 @@ Adjectives often follow a form of be. Adjectives describe or give information ab
 
 Practice using prepositions of place
 
+substation 变电所，变电站
 
+siting
+
+utility-scale wind plant 大规模储能风电厂
+
+wind vane 风向标
+
+anemometer 风速计
+
+offshore wind turbines 海上风力发电机
+
+land-base wind turbines 陆基风力发电机
+
+blade and hub assembly 叶片和轮毂总成
+
+nacelle
+
+The majority of wind turbines fall into two basic types: Horizontal-axis turbine and Vertical-axis turbine
+
+These turbines are omnidirectional(全方位的), meaning they don't need to be adjusted to point into the wind to operate.
+
+the Statue of Liberty
+
+Having trouble? Read the text version of this animation
+
+Interested in wind energy?
+
+in some detail 
+
+in some sense(在某种意义上，在某种程度上)
+
+We will obtain the celebrated Bernoulli equation and apply it to various flows. Indeed, the Bernoulli equation is appropriately called the most used and the most abused equation in fluid mechanics.
+
+inviscid fluid. In practice there are no inviscid fluids. For many flow situations the viscous effects are relatively small compared with other effects. 
+
+for the present case
 
