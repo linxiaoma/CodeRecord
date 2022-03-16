@@ -150,3 +150,42 @@ with the foregoing qualitative study,
 
 preface to the fourth edition
 
+### 2022.03.16
+
+Solid growth bodes well for firm recovery
+
+walk around the room		work with a partner
+
+at this school 		Cairo is in Egypt
+
+Where asks about place. Where comes at the beginning of the question, in front of be.
+
+have a backaches		have a headache		have a stomachache	have a cold		have a sore throat
+
+have a fever			have a toothaches
+
+raincoat	earring	sweater	button	pants	boots	zipper
+
+as a matter of fact
+
+due to fluid molecules bombarding the surface
+
+wedge			postulate
+
+since angle is arbitrary, we conclude that the pressure p in a static fluid is a point property, independent of orientation.
+
+atmospheric pressure
+
+freshwater lake
+
+neglect density changes in the fluid
+
+completely submerged in a liquid
+
+mechanical ventilation机械通气
+
+According to Pascal's law, a fluid at static creates a pressure p at a point that is the same in all direction.
+
+trapezoidal(梯形的) volume
+
+center of pressure		
