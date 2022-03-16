@@ -189,3 +189,20 @@ According to Pascal's law, a fluid at static creates a pressure p at a point tha
 trapezoidal(梯形的) volume
 
 center of pressure		
+
+as the name implies		
+
+subthreshold region 亚阈值区
+
+building on
+
+compilation	编纂，汇编
+
+rationale
+
+toward that end 为此
+
+where the leading negative sign accounts for the fact that
+
+
+
