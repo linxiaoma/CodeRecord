@@ -204,5 +204,37 @@ toward that end 为此
 
 where the leading negative sign accounts for the fact that
 
+### 2022.03.17
+
+distributed forces	infinitesimal size
+
+centroid of the area
+
+transverse loadings
+
+abscissa
+
+equilateral triangles
+
+we must pay a lot of attention to 
+
+Grammar for great writing is a three-book series that help students with specific grammar they actually need to strengthen their academic writing.
+
+I am grateful to the many people who have worked so hard on the ...
+
+students all over the world
+
+These coral reefs are in the Indian Ocean. Where else can you find coral reefs?
+
+What lives in a coral reefs?
+
+This paragraph contains two errors with the verb be. Find the errors and correct them. Explain your corrections to a partner.
+
+gerund 动名词
+
+**The Republic of Maldives**
+
+The Republic of Maldives is an island nation in the Indian Ocean.
+
 
 
