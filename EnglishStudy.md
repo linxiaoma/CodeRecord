@@ -266,9 +266,29 @@ as is illustrated in...
 
 Belgium	比利时		Brussels 布鲁塞尔 Belgian adj.比利时的. n. 比利时人
 
+bother with 为..而费心，为...操心
 
+do not despair
 
+intrinsic semiconductors
 
+extrinsic semiconductors 杂质半导体，非本征半导体
+
+phosphorus(P)
+
+in a similar manner
+
+Well, patience is a virtue and we will answer these questions in the next section
+
+It can be proved that...
+
+anode cathode		plays a fundamental role in many..
+
+the following outline shows our thought process
+
+the immediate vicinity of the junction
+
+We therefore surmise that..
 
 
 
