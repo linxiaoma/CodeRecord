@@ -238,3 +238,37 @@ The Republic of Maldives is an island nation in the Indian Ocean.
 
 
 
+### 2022-03-18
+
+airplane propeller	blue-ray disc		Ferris wheel
+
+Objects with definite size and definite that in general have rotational as well as translational motion.
+
+We'll develope dynamic principles that relates the forces on a body to its rotational motion.
+
+In analyzing rotational motion, let's think first about 		as simple as possible
+
+angular displacement		angular velocity		instantaneous  angular velocity
+
+keep in mind the distinction between...
+
+be reminiscent of 令人联想到，令人想起
+
+This is alse true of ratational motion about a fixed axis.		be true of 	v. 符合于，对...适用
+
+outward normal unit vector
+
+illuminate	照射，照亮
+
+for that matter 就此而言
+
+as is illustrated in...
+
+Belgium	比利时		Brussels 布鲁塞尔 Belgian adj.比利时的. n. 比利时人
+
+
+
+
+
+
+
