@@ -290,5 +290,27 @@ the immediate vicinity of the junction
 
 We therefore surmise that..
 
+### 2022.03.19
+
+consider now the reverse-bias case
+
+A similar statement can be made about...
+
+academia and industry
+
+a conservative force
+
+corona discharge 电晕放电
+
+thermionic emission 热离子发射
+
+Thus, at such low temperatures, silicon behaves as an insulator
+
+will lay the foundation for our study of 
+
+unless other specified
+
+as a rule of thumb
+
 
 
