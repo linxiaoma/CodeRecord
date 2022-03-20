@@ -314,3 +314,34 @@ as a rule of thumb
 
 
 
+### 2022.03.20
+
+it has nothing to do with ...
+
+Equation gives a simple physical interpretation of moment of inertia.
+
+It is often very difficult or impossible to...
+
+The method of Lagrange Multipliers
+
+A technique for .... is based on the following theorem
+
+I don’t know what I may seem to the world, but as to myself, I see to have been only like a boy playing on the sea-shore and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered
+before me.	Isaac Newton 1642–1727  
+
+Finding maximum and minimum values of functions of several varibles is the crux of many applications of advanced calculus to problems that arise in other disciplines.
+
+Some definition hold for...
+
+is farmiliar in everyday life
+
+along the pavement
+
+Perovskite 钙钛矿		Perovskite Solar Cells
+
+Metrology and Instrumentation 计量学和仪表
+
+latitude 	longitude
+
+troposphere(对流层)		stratosphere(平流层)
+
