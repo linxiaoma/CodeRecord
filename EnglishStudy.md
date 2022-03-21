@@ -345,3 +345,23 @@ latitude 	longitude
 
 troposphere(对流层)		stratosphere(平流层)
 
+### 2022.03.21
+
+be comprised of 			All branches of engineering 
+
+I realized the gravity of the problem
+
+IEEE Systems Journal, and IET Renewable Power Generation.  
+
+His
+research interests include modelling, analyzing, designing, and controlling power electronic devices; energy storage systems; renewable energy sources; integration of distributed generation systems; microgrid and smart grid applications; robotics, and advanced control system.  
+
+his dedicated research team, is looking forward to
+exploring methods to make electric power systems more sustainable, cost-effective, and secure through extensive research and analysis on energy storage, microgrid system, and renewable energy sources.  
+
+for nunerous applications catering on the needs of almost all engineering fields.
+
+Argonne National Laboratory 美国阿贡国家实验室
+
+primal stage 原始阶段
+
