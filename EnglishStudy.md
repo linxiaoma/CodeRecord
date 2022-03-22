@@ -365,3 +365,45 @@ Argonne National Laboratory 美国阿贡国家实验室
 
 primal stage 原始阶段
 
+### 2022.03.22
+
+is defined in a similar fashion
+
+Hamilton was an undergraduate at Trinity College in Dublin. He was appointed Professor of Astronomy at the university and Royal Astronomer of Ireland.
+
+parallelepiped
+
+skew lines
+
+acute angle	obtuse angle	right angle
+
+for pedagogic reasons 出于教学法的原因
+
+Because ..., ac systems ended up the winner
+
+A sinusoid is a signal that has the form of the sine or cosine function.
+
+to mention but a few
+
+We are interested in sinusoids for a number of reasons.
+
+impedence阻抗 admittance导纳
+
+or vice versa
+
+A phasor is a complex number that represents the amplitude and phase of a sinusoid.
+
+...would be intractable otherwise.
+
+bear in mind 	keep in mind
+
+What we need to do is to transform the voltage-current relationship from the time domain to the frequency domain for each element.
+
+reactance 电抗
+
+
+
+
+
+
+
