@@ -375,7 +375,7 @@ parallelepiped
 
 skew lines
 
-acute angle	obtuse angle	right angle
+acute angle	obtuse angle	right angle  isosceles triangle(等腰三角形) equilateral triangle
 
 for pedagogic reasons 出于教学法的原因
 
@@ -402,6 +402,30 @@ What we need to do is to transform the voltage-current relationship from the tim
 reactance 电抗
 
 
+
+
+
+
+
+### 2022.03.24
+
+one of the two standard forms
+
+counterpart
+
+quadric surfaces
+
+ellipse
+
+Notice that it is symmetric with respect to each coordinate plane;this is because its equation involves only even powers of x, y, and z
+
+Nuclear reactors hava cooling towers in the shape of hyperboloids.
+
+A satellite dish reflects signals to the focus of a paraboloid.
+
+in the positive direction  move downward
+
+pass through the point
 
 
 
