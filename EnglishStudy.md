@@ -429,5 +429,17 @@ pass through the point
 
 
 
+### 2022.03.25
+
+In addition to the coordinate along the streamline, the coordinate normal to the streamline will be of use.
+
+the streamwise acceleration and the normal acceleration(the centrifugal acceleration)
+
+Thus, by use of the chain rule of differentiation
+
+in the figure in the margin
+
+
+
 
 
