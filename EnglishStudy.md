@@ -441,5 +441,25 @@ in the figure in the margin
 
 
 
+### 2022.03.26
+
+University of Waterloo
+
+University of Toronto
+
+Our intention was to write a book that is useful to students and instructors alike.
+
+The numerical simulation of the weather, however, cannot outlast the period over which forecasting is needed.
+
+outlast vt. 比...长久；从...中逃生
+
+The pendulum is displaced from the vertical position such that the angles between the rod and the x axis is theta, and then the pendulum is released from rest.
+
+as the pendulum swings back and forth
+
+It should be pointed out that
+
+It is important to remember that
+
 
 
