@@ -1,0 +1,15 @@
+ # Control Tutorials for MATLAB and Simulink
+
+
+
+**Welcome to the Control Tutorials for MATLAB and Simulink (CTMS):** They are designed to help you learn how to use MATLAB and Simulink for the analysis and design of automatic control systems. They cover the basics of MATLAB and Simulink and introduce the most common classical and modern control design techniques.
+
+**Navigation:** There are several items listed down the left column of the main page. These represent the various steps or approaches in the controller design process: System modeling and analysis - PID, root locus, frequency domain, state-space, and digital controller design - and Simulink modeling and control. Along the top of the main page, you will find an introductory section along with seven interesting and informative examples which illustrate the controller design process. We recommend beginning by reading through all of the introductory sections and then continuing on to the examples. In general the difficululty of the tutorials increases from left to right.
+
+We also envision that you will follow along with these tutorials by running MATLAB/Simulink in one window and the tutorials in another. You should be able to run most of the MATLAB programs by copying and pasting between windows; the Simulink models can be executed by downloading the model files. You may also find the tutorials helpful as an on-line reference while doing homework assignments or for reviewing concepts before exams. If you have no prior experience with MATLAB, the first tutorials at the top, MATLAB and Simulink Basics are recommended. 
+
+ **About the Authors:** These tutorials were originally developed by **Prof. Bill Messner** at Carnegie Mellon and **Prof. Dawn Tilbury** at the University of Michigan with funding from NSF. With further support from the MathWorks in 2011 and 2017, Prof. Messner, **Prof. Rick Hill** (Detroit Mercy), and PhD Student **JD Taylor** (CMU), expanded the tutorials, completely redesigned the web interface, and updated all of the tutorials to reflect new functionality and tools available in the most recent version of the software (MATLAB R2017a). Additional funding by the MathWorks in 2014 allowed Prof. Hill to add the hardware-based activities that can be accessed under the Hardware tab at the top of this window. Further funding from the MathWorks in 2019 supported **Prof. Shuvra Das** (Detroit Mercy) to develop the Simscape models included for each of the examples.
+
+Most of the original development work was done by undergraduate students Luis Oms (CMU), Joshua Pagel (UM), Yanjie Sun (UM), and Munish Suri (CMU) over the summer of 1996 and Christopher Caruana (UM), Dai Kawano (UM), Brian Nakai (CMU) and Pradya Prempraneerach (CMU) over the summer of 1997. Graduate student Jonathon Luntz (CMU) wrote the Simulink tutorials and contributed significantly in preparing the tutorials for web publication.
+
+A prototype set of tutorials, developed by Prof. Tilbury, won an Undergraduate Computational Science Award from the U.S. Department of Energy, and the first set of Control Tutorials for MATLAB won the Educom Medal. 
