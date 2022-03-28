@@ -463,3 +463,27 @@ It is important to remember that
 
 
 
+### 2022.03.28
+
+One of the most important applications of diodes is in the design of rectifier circuits.
+
+step the line voltage down to the value required to yield the particular dc voltage output of the supply.
+
+step-down transformer 降压变压器；降压器
+
+pulsating waveform 脉动的；脉冲的；脉搏的
+
+pulsate v. 颤动；有规律地跳动
+
+though much more constant than without the filter
+
+It is usually prudent to select ...
+
+This is a very encouraging result in view of our desire to produce a dc output.
+
+In fact, theoretically speaking
+
+At the end of the period of discharge, which lasts for alomst the entire period T.
+
+is approximately equal to
+
