@@ -487,3 +487,23 @@ At the end of the period of discharge, which lasts for alomst the entire period 
 
 is approximately equal to
 
+### 2022.03.29
+
+科目：微电子学
+
+今天的微电子学领域主要是由金属氧化物半导体场效应晶体管(MOSFET)主导。早在20世纪30年代被构想出来，但直到60年代才真正实现，MOSFET器件所具有的独特属性，引导了半导体产业革命。这种革命以集成一亿多晶体管到微处理器中，存储芯片容纳十亿晶体管，以及精密复杂的通讯电路提供巨大的信号处理能力而达到顶峰。
+
+in the 1960s 	This revolution has culminated in ...
+
+sophisticated
+
+ recall from ...		illustrated in ...
+
+what happen if...
+
+This will serve our objective of building a voltage-controlled current source.
+
+before delving into the operation of MOSFET
+
+
+
