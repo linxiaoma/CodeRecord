@@ -507,3 +507,9 @@ before delving into the operation of MOSFET
 
 
 
+### 2022.03.30
+
+far more useful than...
+
+can be used in a multitude of applications
+
