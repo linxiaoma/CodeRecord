@@ -517,3 +517,11 @@ can be used in a multitude of applications
 
 This is not entirely true.
 
+is at the core of ...
+
+A process engineer randomly selects 4 items from among the 240 items in a lot and checks to determine whether the items are defective. If more than 1 sampled item is found..
+
+in the long run
+
+followed by 
+
