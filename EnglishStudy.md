@@ -525,3 +525,45 @@ in the long run
 
 followed by 
 
+### 2022.04.01
+
+the number of highway fatalities per year in a given province
+
+consequently
+
+### 2022.04.02
+
+whether you've any prior programming experience or not, 
+
+Becoming an expert won't happen overnight, but with a little patience, you'll get there.
+
+These tutorials aim to make learning C++ easy.
+
+Whether you're interested in learning C++ as a hobby or for professional development, you're in the right place.
+
+By the time you finish the book
+
+incidental topics
+
+Write your own short programs using the concepts you have learned, this will reinforce your learning and improve your retention.
+
+all the time 始终，一直
+
+Machine Languages---------Assembly Languages------------High-level Languages
+
+compiler------------------interpreter
+
+become a de facto standard
+
+nope
+
+burdensome adj. 负担沉重的，繁重的
+
+conformance n. 一致性，顺应
+
+dissecting adj.解剖的 v. 解剖，仔细检查
+
+Programmers often have to make a tough decision between sloving a problem one way, or solving it another way. Comments are a great way to remind yourself(or tell somebody else) the reason you made one decision instead of another.
+
+championed by 由....主张，由....倡导，由....提出
+
