@@ -567,3 +567,21 @@ Programmers often have to make a tough decision between sloving a problem one wa
 
 championed by 由....主张，由....倡导，由....提出
 
+
+
+### 2022.04.04
+
+cuisine n. 烹饪，风味；菜肴
+
+
+
+### 2022.04.05
+
+are separated by commas
+
+this process is called pass by value
+
+as opposed to
+
+pragma
+
