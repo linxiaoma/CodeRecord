@@ -585,3 +585,15 @@ as opposed to
 
 pragma
 
+### 2022.04.06
+
+nomenclature 命名法，术语
+
+deprecated feature 已弃用的功能
+
+this impact is usually negligible.
+
+it is redundant
+
+sabbatical adj.安息日的 n.休假
+
