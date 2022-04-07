@@ -597,3 +597,13 @@ it is redundant
 
 sabbatical adj.安息日的 n.休假
 
+### 2022.04.07
+
+The negative sign is included since an increase in pressure will cause a decrease in volume. Since a decrease in volume of a given mass will result in an increase in density.
+
+on its own 独自，就其本身而言
+
+incipient 初期的，初始的，发端的
+
+
+
