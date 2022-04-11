@@ -607,3 +607,29 @@ incipient 初期的，初始的，发端的
 
 
 
+### 2022.04.10
+
+precedence
+
+parentheses
+
+unary operators			operand
+
+binary arithmetic operators	addition subtraction multiplication division modulus
+
+ with no caveats 警告，说明
+
+Modulus is most useful for testing whether a number is evenly divisible by another number.
+
+Of the three modes of operation of the BJT, the active mode is the most important.
+
+In their journey across the base, 
+
+
+
+### 2022.04.11
+
+A streamtube consists of a bundle of streamlines, muck like
+
+
+
