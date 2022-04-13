@@ -633,3 +633,21 @@ A streamtube consists of a bundle of streamlines, muck like
 
 
 
+### 2022.04.12
+
+parameter	parametrization	
+
+cusp 尖头，尖端
+
+recall that
+
+in accordance with our intuition
+
+this corresponds to the fact that 
+
+in particular, we follow in the footsteps of Newton by using these methods to derive Kepler's First law of plantary motion.
+
+exact solution	numerically approximated solution
+
+for each successive value
+
