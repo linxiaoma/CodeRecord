@@ -651,3 +651,128 @@ exact solution	numerically approximated solution
 
 for each successive value
 
+### 2022.04.18
+
+correct to three decimal places
+
+
+
+
+
+### 2022.04.19
+
+insurmountable adj. 不能克服的，不能超越的；难以对付的
+
+complacent adj. 自满的，自鸣得意
+
+Great changes in science are spurred by observations and new creative ideas.
+
+### 2022.04.20
+
+in sequential order by default		for short
+
+the idea behind a switch statement is simple
+
+also satisfies the conditions for ...
+
+quadrilateral
+
+full-fledged adj. 全面发展的；经过全面训练的；成熟的
+
+
+
+### 2022.04.21
+
+In a nutshell
+
+
+
+### 2022.04.22
+
+take for grant
+
+
+
+
+
+### 2022.04.23
+
+#### 1 English Reading
+
+with high degree of accuracy
+
+his likeness 他的肖像
+
+Because it would be  cumbersome to
+
+matchbox
+
+Electrons play the major role in chemical reactions.
+
+We will have much to say about the peroidic table in later chapters.
+
+In everyday life
+
+#### 2 专业知识
+
+1. 排列与组合
+
+- 基本计数法则
+  - 加法原理
+  - 乘法原理
+- 排列的概念及其计算方法
+- 组合的概念及其计算方法
+
+2. 新闻联播文字版
+
+   首届全民阅读大会23日在京开幕。中共中央总书记、国家主席、中央军委主席习近平发来贺信，表示热烈的祝贺。
+
+   习近平在贺信中指出，阅读是人类获取知识、启智增慧、培养道德的重要途径，可以让人得到思想启发，树立崇高理想，涵养浩然之气。中华民族自古提倡阅读，讲究格物致知、诚意正心，传承中华民族生生不息的精神，塑造中国人民自信自强的品格。
+
+   习近平希望广大党员、干部带头读书学习，修身养志，增长才干；希望孩子们养成阅读习惯，快乐阅读，健康成长；希望全社会都参与到阅读中来，形成爱读书、读好书、善读书的浓厚氛围。
+
+   开幕式上，中共中央政治局委员、中宣部部长黄坤明宣读了习近平的贺信并讲话。他说，习近平总书记的贺信，充分体现了党中央对推动全民阅读、建设书香中国的高度重视。要认真学习贯彻习近平总书记重要指示精神，加强阅读引领，涵育阅读风尚，构建覆盖城乡的阅读推广服务体系，推动全民阅读扩大覆盖、提升品质、增强实效，以书香中国建设促进文化强国建设，为奋进新征程、建功新时代注入强大精神力量。
+
+   首届全民阅读大会由中央宣传部（国家新闻出版署）、北京市委、北京市政府指导，中宣部出版局、北京市委宣传部主办，主题为“阅读新时代、奋进新征程”，包括系列论坛、展览展示、发布和主题活动等环节。有关部门负责同志、出版发行单位和社会组织代表、专家学者和作家读者代表等参加大会。
+
+   **央视快评：让全社会形成爱读书、读好书、善读书的浓厚氛围**
+
+​		
+
+
+
+
+
+### 2022.04.24
+
+- 复变函数
+
+  - 复变函数的概念，两种表示形式：以复数`z`表示；以实部`u(x,y)`和虚部`v(x,y)`表示
+  - 可解析的概念
+  - Cauchy-Riemann方程
+
+- 理论力学
+
+  - 质点的运动学之自然坐标系表示法	对应空间运动中的TNB frame
+  - 加速度的分解
+    - 切向加速度
+    - 法向加速度
+
+- 数学物理方程
+
+  - 基本概念：邻域，连通集，聚点，复变函数，极限与导数，连续
+  - Cauchy-Riemann方程
+
+- 排列组合
+
+  有特殊需求的排列。首先分析：完成这个事件需要分成多少个步骤执行？然后在安排步骤时谁有特殊的要求，就先安排谁。如果在完成事件的过程中，有不确定的因素，则需要进行不确定的原因进行分类讨论。
+
+  ```
+  例1 六个人从左至右排成一行，最左端只能排甲或乙，最右端不能拍甲乙，有多少种排法？
+  
+  
+  例2 用0,1,2,3,4组成一个无重复数字的五位偶数有多少个？
+  
+  ```
+
+  
