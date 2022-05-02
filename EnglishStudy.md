@@ -775,4 +775,14 @@ In everyday life
   
   ```
 
-  
+
+### 2022.05.02
+
+stencil n. 漏字板；版模；印刷模板
+
+as the need arises
+
+caveats n. 警告，说明
+
+
+
