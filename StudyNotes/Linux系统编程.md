@@ -101,6 +101,10 @@ Linux系统目录结构
 
 ​	.. 当前的上一级目录
 
+​	cd - 在邻近的两个目录间切换
+
+​	cd 直接回到用户家目录
+
 shell命令提示信息：用户名@主机名:当前目录$ ($---表示普通用户 #---表示root用户)
 
 sudo apt install tree 安装tree程序后可以以树形结构显示文件目录
@@ -132,17 +136,26 @@ touch命令
 cp命令
 
 - 拷贝文件 cp 文件名 new_file。注意文件存在与不存在的区别
-- 拷贝目录 cp directory new_directory。注意目录存在与不存在的区别
+- 拷贝目录 cp -r directory new_directory。注意目录存在与不存在的区别
 
-cat命令
+查看文件内容命令
 
-more命令
+- cat命令
 
-less命令
+- more命令
+  - 空格 翻页
+  - Enter 多显示一行
 
-head命令
+- less命令
+  - 各种快捷键
 
-tail命令
+- head命令
+  - 默认显示前10行
+  - head -n 查看文件的前n行
+
+- tail命令
+  - 默认显示后10行
+  - tail -n 查看文件的后n行
 
 mv命令
 
@@ -167,13 +180,14 @@ mv命令
 文件权限、用户、用户组
 
 - whoami查看当前用户
+
 - 修改权限
     - 文字设定法：chmod [who] [+-=] [mode]
         - who
             - u 文件所有者
             - g 文件所属组
             - o 其他人
-            - a 所有人
+            - a 所有人(默认)
         - 添加权限 + 
         - 减少权限 -
         - 覆盖原来的权限 =
@@ -188,6 +202,30 @@ mv命令
         - 执行权限 x---1
         - chmod 权限对应的数字 文件名 （三位数字分别对应文件所有者、文件所属组、其他人）
             - chmod -001 temp去掉其他人对文件的执行权限
+    
+    chown 改变文件所属者
+    
+    改变文件所属者所属组 chown Luffy:lisi temp 将temp文件修改为lisi组
+    
+    chgrp sunningma temp 将temp文件所属组修改为sunningma
+    
+    目录必须具有执行权限，才能进入该目录
+
+文件的查找和检索
+
+- 按文件属性查找
+  - 文件名
+    - find 查找目录 -name “文件名”			文件名最好用引号
+    - 不知道具体文件名，可以使用通配符 *、？
+  - 文件大小
+    - find 查找目录 -size  +10k(+10M)
+    - find 查找目录 -size  +10k -size -10M 搜索文件大小范围在10k到10M间
+  - 文件类型
+    - find 查找目录 -type f 搜索普通文件
+    - find 查找目录 -type p 搜索管道
+
+- 按文件内容查找
+  - grep -r “查找内容” 查找目录
 
 软件的安装和卸载
 
