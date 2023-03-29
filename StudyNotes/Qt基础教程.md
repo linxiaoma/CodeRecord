@@ -77,7 +77,9 @@ Qt Assistant是可配置且可重新发布的文档阅读器，可以方便地�
 int main(int argc, char** argv)
 {
 	QApplication app(argc, argv); //任何一个Qt Widgets程序都需要一个QApplication类对象
-	return app.exec();
+	QLabel label("我是标签");
+	label.show();		//控件默认是隐藏的
+	return app.exec();	//应用程序进入事件循环
 }
 ```
 
@@ -112,19 +114,27 @@ int main(int argc, char** argv)
 
 命令行输入 `qmake -project`。生成和工程名一样的工程文件`Hello.pro`
 
-打开`Hello.pro`文件，添加 `QT += widgets`
+打开`Hello.pro`文件，在文件最后添加 `greaterThan(QT_MAJOR_VERSION, 4): QT += widgets`
 
 执行`qmake`，生成`Makefile`文件
 
-执行`make`，生成可执行文件`hello`
+执行`make`，或者执行`mingw32-make`，生成可执行文件`hello`
 
 最后运行可执行文件`./hello`
+
+Windows平台下的创建方式类似。注意，需要进入到`release`文件夹下执行.exe文件
 
 往项目中添加.ui文件
 
 在模板中选择Qt中的Qt Designer Form，在选择界面模板时选择Dialog without Buttons项，并命名文件。
 
+使用`uic`编译工具，从`ui`文件生成头文件，具体命令如下：
 
+```qt
+uic -o ui_hellodialog.h hellodialog.ui
+```
+
+.ui文件生成的默认头文件的名称是ui_加.ui文件的名称。
 
 ### `Qt`中文编码
 
